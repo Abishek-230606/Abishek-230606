@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dark_banner.svg">
-  <img alt="Abishek JS" src="dark_banner.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg">
+  <img alt="Abishek JS" src="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg" width="100%">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
