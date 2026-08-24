@@ -49,15 +49,7 @@
 <br/>
 <!-- ===== PROJECTS ===== -->
 <div align="center">
-  <h3 align="center" style="color: #22D3EE;">💻 Featured Projects</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Abishek-230606&repo=Credit-Card-Fraud-Detection-under-Severe-Class-Imbalence&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=10B981&bg_color=0A101F" />
-    <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Abishek-230606&repo=Credit-Card-Fraud-Detection-under-Severe-Class-Imbalence&theme=tokyonight&hide_border=true&title_color=0891B2&text_color=0F172A&icon_color=059669&bg_color=FFFFFF" alt="Credit Card Fraud Detection" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Abishek-230606&repo=PROJECTS&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=10B981&bg_color=0A101F" />
-    <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Abishek-230606&repo=PROJECTS&theme=tokyonight&hide_border=true&title_color=0891B2&text_color=0F172A&icon_color=059669&bg_color=FFFFFF" alt="Movie Recommendation (Projects Repo)" />
-  </picture>
+  <img alt="Projects List" src="projects_list.svg" width="100%">
 </div>
 <br/>
 
