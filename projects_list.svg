@@ -9,8 +9,8 @@
 <text x="95" y="155" fill="#94A3B8" font-family="monospace" font-size="12">Handling severe class imbalance in transaction data</text>
 <rect x="95" y="180" width="60" height="18" fill="#7C3AED" opacity="0.2" rx="9"/><text x="125" y="193" fill="#7C3AED" font-family="monospace" font-size="10" font-weight="bold" text-anchor="middle">Python</text>
 <rect x="165" y="180" width="80" height="18" fill="#10B981" opacity="0.2" rx="9"/><text x="205" y="193" fill="#10B981" font-family="monospace" font-size="10" font-weight="bold" text-anchor="middle">Scikit-Learn</text>
-<circle cx="510" cy="150.0" r="35" fill="none" stroke="#94A3B8" stroke-width="6" opacity="0.2"/>
-<circle cx="510" cy="150.0" r="35" fill="none" stroke="#22D3EE" stroke-width="6" stroke-dasharray="160 220" transform="rotate(-90 510 150.0)"/>
+<circle cx="510" cy="150.0" r="35" fill="none" stroke="#94A3B8" stroke-width="10" opacity="0.2"/>
+<circle cx="510" cy="150.0" r="35" fill="none" stroke="#22D3EE" stroke-width="10" stroke-dasharray="187 220" transform="rotate(-90 510 150.0)"/>
 <text x="510" y="155.0" fill="#F8FAFC" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle">85%</text>
 <rect x="600" y="60" width="540" height="180" fill="#0F172A" stroke="#22D3EE" stroke-width="1" rx="8" opacity="0.8"/>
 <text x="620" y="90" fill="#94A3B8" font-family="monospace" font-size="10">@Abishek-230606/Movie-Recommendation</text>
@@ -19,7 +19,7 @@
 <text x="655" y="155" fill="#94A3B8" font-family="monospace" font-size="12">Content-based filtering and ML algorithms</text>
 <rect x="655" y="180" width="60" height="18" fill="#7C3AED" opacity="0.2" rx="9"/><text x="685" y="193" fill="#7C3AED" font-family="monospace" font-size="10" font-weight="bold" text-anchor="middle">Python</text>
 <rect x="725" y="180" width="60" height="18" fill="#22D3EE" opacity="0.2" rx="9"/><text x="755" y="193" fill="#22D3EE" font-family="monospace" font-size="10" font-weight="bold" text-anchor="middle">Pandas</text>
-<circle cx="1070" cy="150.0" r="35" fill="none" stroke="#94A3B8" stroke-width="6" opacity="0.2"/>
-<circle cx="1070" cy="150.0" r="35" fill="none" stroke="#7C3AED" stroke-width="6" stroke-dasharray="190 220" transform="rotate(-90 1070 150.0)"/>
+<circle cx="1070" cy="150.0" r="35" fill="none" stroke="#94A3B8" stroke-width="10" opacity="0.2"/>
+<circle cx="1070" cy="150.0" r="35" fill="none" stroke="#7C3AED" stroke-width="10" stroke-dasharray="202 220" transform="rotate(-90 1070 150.0)"/>
 <text x="1070" y="155.0" fill="#F8FAFC" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle">92%</text>
 </svg>
