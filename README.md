@@ -2,21 +2,22 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg">
-  <img alt="Abishek JS" src="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dark_banner.svg">
+  <img alt="Abishek JS" src="dark_banner.svg" width="100%">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
 
-<!-- Streak — full width -->
+<!-- Streak — full width (Temporarily Hidden due to Demolab Server Outage)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Abishek-230606&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Abishek-230606&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" />
   <img width="100%" src="https://streak-stats.demolab.com/?user=Abishek-230606&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="Abishek's streak" />
 </picture>
+-->
 
 <br/>
 
