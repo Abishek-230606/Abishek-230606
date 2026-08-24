@@ -1,10 +1,7 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com//Abishek-230606/Abishek-230606/blob/main/dark_banner.svg">
-  <img alt="Abishek JS" src="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg">
-</picture>
+<img alt="Abishek JS" src="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg" width="100%">
 
 <!-- ===== GITHUB STATS ===== -->
 
