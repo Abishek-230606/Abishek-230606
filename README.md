@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg">
-  <img alt="Terminal Banner" src="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg" width="100%">
-</picture>
+<img alt="Terminal Banner" src="dark_banner.svg" width="100%">
 
 <br><br>
 
@@ -18,7 +14,7 @@
 
 <br>
 
-<!-- Stats Cards -->
+<!-- Stats Cards (Temporarily Hidden - Public Servers are Down)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Abishek-230606&theme=tokyonight&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=ffffff" width="100%" alt="Streak Stats"/>
 </p>
@@ -26,6 +22,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abishek-230606&theme=tokyonight&hide_border=true&show_icons=true&title_color=22D3EE&text_color=A78BFA&icon_color=10B981&bg_color=0A101F&hide_rank=true" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-230606&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=A78BFA&bg_color=0A101F" width="49%" alt="Top Languages"/>
 </p>
+-->
+
+<br>
 
 <br>
 
