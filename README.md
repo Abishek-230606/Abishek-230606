@@ -2,8 +2,8 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//Abishek-230606/Abishek-230606/blob/main/dark_banner.svg">
-  <img alt="Arif Hasan" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
+  <source srcset="https://raw.githubusercontent.com//Abishek-230606/Abishek-230606/blob/main/dark_banner.svg">
+  <img alt="Abishek JS" src="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/main/dark_banner.svg">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
