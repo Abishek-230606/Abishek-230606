@@ -48,7 +48,11 @@
 <br/>
 <!-- ===== PROJECTS ===== -->
 <div align="center">
-  <img alt="Projects List" src="projects_list.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/projects/projects.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/projects/projects-light.svg">
+    <img alt="Projects List" src="https://raw.githubusercontent.com/Abishek-230606/Abishek-230606/projects/projects.svg" width="100%">
+  </picture>
 </div>
 <br/>
 
