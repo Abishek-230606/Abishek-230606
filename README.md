@@ -23,8 +23,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek-230606&theme=tokyonight&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=ffffff" width="100%" alt="Streak Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishek-230606&theme=tokyonight&hide_border=true&show_icons=true&title_color=22D3EE&text_color=A78BFA&icon_color=10B981&bg_color=0A101F&hide_rank=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-230606&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=A78BFA&bg_color=0A101F" width="49%" alt="Top Languages"/>
+  <img src="https://abishek-230606.vercel.app/api?username=Abishek-230606&theme=tokyonight&hide_border=true&show_icons=true&title_color=22D3EE&text_color=A78BFA&icon_color=10B981&bg_color=0A101F&hide_rank=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://abishek-230606.vercel.app/api/top-langs/?username=Abishek-230606&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=A78BFA&bg_color=0A101F" width="49%" alt="Top Languages"/>
 </p>
 
 <br>
